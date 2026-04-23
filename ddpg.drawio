@@ -22,10 +22,10 @@
         <mxCell id="pEJp0QJUyv8iGJAg1Mn9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;Inference Control Logix&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="340" y="-800" as="geometry" />
         </mxCell>
-        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;font face=&quot;Lucida Console&quot;&gt;Early_exit_controller&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="480" y="-760" as="geometry" />
+        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;Early_exit_controller&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="480" y="-760" as="geometry" />
         </mxCell>
-        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" value="&lt;font face=&quot;Lucida Console&quot;&gt;Main Network(Exits 1-4)&lt;/font&gt;" vertex="1">
+        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;Main Network(Exits 1-4)&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="240" y="-760" as="geometry" />
         </mxCell>
         <mxCell id="pEJp0QJUyv8iGJAg1Mn9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="$$&lt;br&gt;Action_{t}:&lt;br&gt;\left\{&lt;br&gt;(G_{t}^{1}, D_{t}^{1}),&lt;br&gt;\cdots,&lt;br&gt;(G_{t}^{3}, D_{t}^{3})&lt;br&gt;\right\}&lt;br&gt;$$" vertex="1">
