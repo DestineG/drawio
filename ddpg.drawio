@@ -31,7 +31,7 @@
         <mxCell id="pEJp0QJUyv8iGJAg1Mn9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="$$&lt;br&gt;Action_{t}:&lt;br&gt;\left\{&lt;br&gt;(G_{t}^{1}, D_{t}^{1}),&lt;br&gt;\cdots,&lt;br&gt;(G_{t}^{3}, D_{t}^{3})&lt;br&gt;\right\}&lt;br&gt;$$" vertex="1">
           <mxGeometry height="40" width="240" x="400" y="-880" as="geometry" />
         </mxCell>
-        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-10" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" value="&lt;font face=&quot;Lucida Console&quot;&gt;Experience Replay Buffer&lt;/font&gt;" vertex="1">
+        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-10" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;font face=&quot;Lucida Console&quot;&gt;Experience Replay Buffer&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="320" y="-560" as="geometry" />
         </mxCell>
         <mxCell id="pEJp0QJUyv8iGJAg1Mn9-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$&lt;br&gt;Performance_{t}: (Acc_{t}, Latency_{t})&lt;br&gt;$$" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="pEJp0QJUyv8iGJAg1Mn9-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;Periodic Policy Update&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="320" y="-440" as="geometry" />
         </mxCell>
-        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" value="&lt;font face=&quot;Lucida Console&quot;&gt;Interval Reached?&lt;/font&gt;" vertex="1">
+        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;font face=&quot;Lucida Console&quot;&gt;Interval Reached?&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="260" y="-400" as="geometry" />
         </mxCell>
         <mxCell id="pEJp0QJUyv8iGJAg1Mn9-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;font face=&quot;Lucida Console&quot;&gt;Sample Batch&lt;/font&gt;" vertex="1">
