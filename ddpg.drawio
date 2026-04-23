@@ -37,7 +37,7 @@
         <mxCell id="pEJp0QJUyv8iGJAg1Mn9-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$&lt;br&gt;Performance_{t}: (Acc_{t}, Latency_{t})&lt;br&gt;$$" vertex="1">
           <mxGeometry height="40" width="240" x="200" y="-640" as="geometry" />
         </mxCell>
-        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="$$&lt;br&gt;Reward: R_{t}&lt;br&gt;$$" vertex="1">
+        <mxCell id="pEJp0QJUyv8iGJAg1Mn9-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="$$&lt;br&gt;RewardFunc: R_{t}&lt;br&gt;$$" vertex="1">
           <mxGeometry height="40" width="120" x="520" y="-640" as="geometry" />
         </mxCell>
         <mxCell id="pEJp0QJUyv8iGJAg1Mn9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="" vertex="1">
