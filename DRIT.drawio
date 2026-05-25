@@ -295,6 +295,24 @@
             <mxPoint x="-70" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3lmf4pczmZCohQ4IbgsP-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="split" vertex="1">
+          <mxGeometry height="40" width="80" x="80" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="3lmf4pczmZCohQ4IbgsP-59" edge="1" parent="1" source="3lmf4pczmZCohQ4IbgsP-46" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3lmf4pczmZCohQ4IbgsP-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="1060" as="sourcePoint" />
+            <mxPoint x="20" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lmf4pczmZCohQ4IbgsP-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="self.X_phy_B" vertex="1">
+          <mxGeometry height="40" width="80" x="80" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="3lmf4pczmZCohQ4IbgsP-61" edge="1" parent="1" source="3lmf4pczmZCohQ4IbgsP-58" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3lmf4pczmZCohQ4IbgsP-60" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="1390" as="sourcePoint" />
+            <mxPoint y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
