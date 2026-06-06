@@ -1439,7 +1439,7 @@
           <mxGeometry height="72.5" width="30.5" x="618.75" y="987.75" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-67" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Content Encoder" vertex="1">
-          <mxGeometry height="30" width="66" x="594" y="1047.5" as="geometry" />
+          <mxGeometry height="30" width="106" x="576.39" y="1046.5" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-68" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
           <mxGeometry height="45" width="34" x="683.5" y="1001.5" as="geometry" />
@@ -1502,7 +1502,7 @@
           <mxGeometry height="30" width="263" x="720" y="640" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-87" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Similarity measurement" vertex="1">
-          <mxGeometry height="30" width="160" x="920" y="800" as="geometry" />
+          <mxGeometry height="30" width="160" x="737" y="850" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-89" edge="1" parent="1" source="hNlQ9Hq9DZGEPUe0UaRC-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hNlQ9Hq9DZGEPUe0UaRC-118" value="">
           <mxGeometry relative="1" as="geometry">
@@ -1568,7 +1568,7 @@
           <mxGeometry height="135" width="30.5" x="651.89" y="1204" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-105" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Attribute Encoder" vertex="1">
-          <mxGeometry height="30" width="66" x="634.39" y="1290.5" as="geometry" />
+          <mxGeometry height="30" width="115.61" x="609.34" y="1290.5" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-106" edge="1" parent="1" source="hNlQ9Hq9DZGEPUe0UaRC-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hNlQ9Hq9DZGEPUe0UaRC-108" value="">
           <mxGeometry relative="1" as="geometry" />
