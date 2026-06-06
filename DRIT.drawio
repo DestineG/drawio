@@ -1431,14 +1431,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o7LQMR7m-XhwLgoVwh_s" name="内容域对比学习策略">
-    <mxGraphModel dx="2054" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1712" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-66" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
           <mxGeometry height="72.5" width="30.5" x="618.75" y="987.75" as="geometry" />
         </mxCell>
-        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-67" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Yahei&quot;&gt;内容编码器&lt;/font&gt;" vertex="1">
+        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-67" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Content Encoder" vertex="1">
           <mxGeometry height="30" width="66" x="594" y="1047.5" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-68" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
@@ -1495,17 +1495,14 @@
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Yahei&quot;&gt;Softmax&lt;br&gt;cross-entropy&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="1037" y="865" as="geometry" />
         </mxCell>
-        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-85" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Yahei&quot;&gt;特征提取&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="630" y="632.5" as="geometry" />
+        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-85" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Feature extraction" vertex="1">
+          <mxGeometry height="30" width="120" x="597" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-86" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Yahei&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;正样本&lt;/font&gt;+&amp;nbsp; &lt;font color=&quot;#ffb570&quot;&gt;N个负样本&lt;/font&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="787" y="630" as="geometry" />
+        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-86" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Positive sample + &lt;span class=&quot;math-inline&quot; data-math=&quot;N&quot; data-index-in-node=&quot;26&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;N&lt;/span&gt;&amp;nbsp;negative samples" vertex="1">
+          <mxGeometry height="30" width="263" x="720" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-87" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Yahei&quot;&gt;计算与查询的相似度&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="88" x="899" y="630" as="geometry" />
-        </mxCell>
-        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-88" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Tahoma&quot;&gt;（N+1）路&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="92" x="1035" y="630" as="geometry" />
+        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-87" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Similarity measurement" vertex="1">
+          <mxGeometry height="30" width="160" x="920" y="800" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-89" edge="1" parent="1" source="hNlQ9Hq9DZGEPUe0UaRC-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hNlQ9Hq9DZGEPUe0UaRC-118" value="">
           <mxGeometry relative="1" as="geometry">
@@ -1570,7 +1567,7 @@
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-104" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
           <mxGeometry height="135" width="30.5" x="651.89" y="1204" as="geometry" />
         </mxCell>
-        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-105" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Yahei&quot;&gt;属性编码器&lt;/font&gt;" vertex="1">
+        <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-105" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Attribute Encoder" vertex="1">
           <mxGeometry height="30" width="66" x="634.39" y="1290.5" as="geometry" />
         </mxCell>
         <mxCell id="hNlQ9Hq9DZGEPUe0UaRC-106" edge="1" parent="1" source="hNlQ9Hq9DZGEPUe0UaRC-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hNlQ9Hq9DZGEPUe0UaRC-108" value="">
