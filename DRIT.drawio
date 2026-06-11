@@ -1518,7 +1518,7 @@
           <mxGeometry height="40" width="40" x="199" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="4KAxmhf7Z_KSh6B0-x83-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Image" vertex="1">
-          <mxGeometry height="40" width="60" x="240.5" y="1320" as="geometry" />
+          <mxGeometry height="40" width="49.5" x="240.5" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="4KAxmhf7Z_KSh6B0-x83-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="$$t$$" vertex="1">
           <mxGeometry height="40" width="40" x="840" y="1320" as="geometry" />
@@ -1542,13 +1542,19 @@
           <mxGeometry height="40" width="39.5" x="560.5" y="1399.5" as="geometry" />
         </mxCell>
         <mxCell id="4KAxmhf7Z_KSh6B0-x83-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="$$PGRB$$" vertex="1">
-          <mxGeometry height="40" width="60" x="641.0699999999999" y="1399.5" as="geometry" />
+          <mxGeometry height="40" width="60" x="760" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="4KAxmhf7Z_KSh6B0-x83-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" value="+" vertex="1">
           <mxGeometry height="39.5" width="39.5" x="440" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="4KAxmhf7Z_KSh6B0-x83-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#393C56;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Add &lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="32.87" x="481.13" y="1400" as="geometry" />
+          <mxGeometry height="40" width="38.87" x="481.13" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="4KAxmhf7Z_KSh6B0-x83-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#393C56;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Residual Block&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="600" y="1399.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4KAxmhf7Z_KSh6B0-x83-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;&lt;font&gt;Physics-guided residual block&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="820" y="1400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
