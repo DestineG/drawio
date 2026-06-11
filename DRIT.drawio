@@ -1556,6 +1556,9 @@
         <mxCell id="4KAxmhf7Z_KSh6B0-x83-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;&lt;font&gt;Physics-guided residual block&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="820" y="1400" as="geometry" />
         </mxCell>
+        <mxCell id="4KAxmhf7Z_KSh6B0-x83-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$J = x_{a}$$" vertex="1">
+          <mxGeometry height="40" width="80" x="360" y="1200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
