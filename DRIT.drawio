@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="14">
   <diagram name="整体框架" id="xFElw54i1n0J8kmA2wWP">
-    <mxGraphModel grid="1" page="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1417" dy="766" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="Ya5xYGwYHOdNJMiYVTYX-0" />
         <mxCell id="Ya5xYGwYHOdNJMiYVTYX-1" parent="Ya5xYGwYHOdNJMiYVTYX-0" />
@@ -1649,7 +1649,7 @@
         <mxCell id="fPDVQpa5fmlUkS_6kDoC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\alpha = 1, \text{Constant fog}$$" vertex="1">
           <mxGeometry height="40" width="160" x="850" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="fPDVQpa5fmlUkS_6kDoC-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\alpha = 1, \text{Lighter fog}$$" vertex="1">
+        <mxCell id="fPDVQpa5fmlUkS_6kDoC-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\alpha &amp;lt; 1, \text{Lighter fog}$$" vertex="1">
           <mxGeometry height="40" width="160" x="850" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="gh2Xox51yYC_4QOklbZ3-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="$$a$$" vertex="1">
