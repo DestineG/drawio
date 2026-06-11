@@ -1559,6 +1559,12 @@
         <mxCell id="4KAxmhf7Z_KSh6B0-x83-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$J = x_{a}$$" vertex="1">
           <mxGeometry height="40" width="80" x="360" y="1200" as="geometry" />
         </mxCell>
+        <mxCell id="4KAxmhf7Z_KSh6B0-x83-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$A = A_{b}$$" vertex="1">
+          <mxGeometry height="40" width="80" x="360" y="1129" as="geometry" />
+        </mxCell>
+        <mxCell id="4KAxmhf7Z_KSh6B0-x83-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$t = t_{b}$$" vertex="1">
+          <mxGeometry height="40" width="80" x="360" y="1270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
