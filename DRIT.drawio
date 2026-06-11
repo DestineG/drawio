@@ -1596,7 +1596,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zpfL8I5exLNPax9iyqLv-1" parent="1" style="whiteSpace=wrap;html=1;" value="$$C_{a}$$" vertex="1">
-          <mxGeometry height="40" width="39.5" x="320" y="1200" as="geometry" />
+          <mxGeometry height="20" width="80" x="320.03" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="gh2Xox51yYC_4QOklbZ3-13" edge="1" parent="1" source="zpfL8I5exLNPax9iyqLv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LbKb91FcxgSKnlb2NC1Q-2">
           <mxGeometry relative="1" as="geometry" />
