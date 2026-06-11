@@ -586,7 +586,7 @@
         <mxCell id="s9oylINE4bNc7zcjs_az-160" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Atmospheric Light Feature" vertex="1">
           <mxGeometry height="20" width="160" x="1300" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="s9oylINE4bNc7zcjs_az-161" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Content NCE Loss" vertex="1">
+        <mxCell id="s9oylINE4bNc7zcjs_az-161" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Content InfoNCE Loss" vertex="1">
           <mxGeometry height="40" width="160" x="690" y="520" as="geometry" />
         </mxCell>
         <mxCell id="s9oylINE4bNc7zcjs_az-162" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Cycle Loss" vertex="1">
@@ -628,7 +628,7 @@
             <mxPoint x="1360" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9oylINE4bNc7zcjs_az-167" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Content NCE Loss" vertex="1">
+        <mxCell id="s9oylINE4bNc7zcjs_az-167" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Content InfoNCE Loss" vertex="1">
           <mxGeometry height="40" width="160" x="690" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="s9oylINE4bNc7zcjs_az-168" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Cycle Loss" vertex="1">
