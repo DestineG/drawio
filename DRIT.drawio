@@ -1320,7 +1320,7 @@
             <mxPoint x="1559.9999999999998" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0isuMOtC41-rrykbN_l-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="C" vertex="1">
+        <mxCell id="F0isuMOtC41-rrykbN_l-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="$$C$$" vertex="1">
           <mxGeometry height="40" width="40" x="540" y="1173.006037992886" as="geometry" />
         </mxCell>
         <mxCell id="F0isuMOtC41-rrykbN_l-42" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="$$S$$" vertex="1">
