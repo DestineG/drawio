@@ -676,10 +676,10 @@
         <mxCell id="RNYPUPO7G69YhOVFGafi-0" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Content InfoNCE Loss" vertex="1">
           <mxGeometry height="40" width="160" x="685" y="1340" as="geometry" />
         </mxCell>
-        <mxCell id="2d9LnKKdpyjFXTcpBYY--0" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="$$t_{b}&#39; = (t_{b})^{\alpha}$$" vertex="1">
+        <mxCell id="2d9LnKKdpyjFXTcpBYY--0" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="$$t&#39; = t^{\alpha}$$" vertex="1">
           <mxGeometry height="40" width="100" x="640" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="2d9LnKKdpyjFXTcpBYY--2" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="$$t_{a \to b}&#39; = (t_{a \to b})^{\alpha}$$" vertex="1">
+        <mxCell id="2d9LnKKdpyjFXTcpBYY--2" parent="Ya5xYGwYHOdNJMiYVTYX-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="$$t&#39; = t^{\alpha}$$" vertex="1">
           <mxGeometry height="40" width="100" x="1040" y="840" as="geometry" />
         </mxCell>
         <mxCell id="2d9LnKKdpyjFXTcpBYY--5" edge="1" parent="Ya5xYGwYHOdNJMiYVTYX-1" source="2d9LnKKdpyjFXTcpBYY--0" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="s9oylINE4bNc7zcjs_az-63" value="">
