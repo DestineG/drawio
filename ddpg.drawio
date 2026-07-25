@@ -397,7 +397,7 @@
         <mxCell id="4l4NZpc0fmUuSL85C9QX-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;fontFamily=Helvetica;" value="$$&lt;br&gt;Action_{t}:&lt;br&gt;\left\{&lt;br&gt;(G_{t}^{1}, D_{t}^{1}),&lt;br&gt;\cdots,&lt;br&gt;(G_{t}^{3}, D_{t}^{3})&lt;br&gt;\right\}&lt;br&gt;$$" vertex="1">
           <mxGeometry height="40" width="260" x="1680" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="4l4NZpc0fmUuSL85C9QX-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;opacity=70;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+        <mxCell id="4l4NZpc0fmUuSL85C9QX-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;opacity=60;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="100" width="440" x="1340" y="680" as="geometry" />
         </mxCell>
         <mxCell id="4l4NZpc0fmUuSL85C9QX-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;fontStyle=1" value="Main Network (Exits 1–4)" vertex="1">
@@ -424,7 +424,7 @@
         <mxCell id="4l4NZpc0fmUuSL85C9QX-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Periodic Policy Update&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="1440" y="980" as="geometry" />
         </mxCell>
-        <mxCell id="4l4NZpc0fmUuSL85C9QX-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fillColor=#d5e8d4;fontStyle=1" value="&lt;font&gt;Sample Mini-Batch&lt;/font&gt;" vertex="1">
+        <mxCell id="4l4NZpc0fmUuSL85C9QX-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;fontStyle=1" value="&lt;font&gt;Sample Mini-Batch&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="1280" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="4l4NZpc0fmUuSL85C9QX-59" edge="1" parent="1" source="4l4NZpc0fmUuSL85C9QX-43" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="4l4NZpc0fmUuSL85C9QX-44" value="">
