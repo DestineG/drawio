@@ -110,10 +110,10 @@
           <mxGeometry height="40" width="40" x="280" y="400" as="geometry" />
         </mxCell>
         <mxCell id="u-O0AHoXOFZEBh_VyPf9-478" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\theta_{k} = 10000^{-\frac{2k}{d}}$$" vertex="1">
-          <mxGeometry height="40" width="120" x="360" y="280" as="geometry" />
+          <mxGeometry height="40" width="120" x="360" y="240" as="geometry" />
         </mxCell>
         <mxCell id="u-O0AHoXOFZEBh_VyPf9-479" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$k = 0, 1, \dots, \frac{d}{2} - 1$$" vertex="1">
-          <mxGeometry height="40" width="120" x="360" y="320" as="geometry" />
+          <mxGeometry height="40" width="120" x="360" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
