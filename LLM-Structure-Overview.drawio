@@ -381,8 +381,8 @@
         <mxCell id="mQI0w_49PHNrOkYvHD4s-8" parent="mQI0w_49PHNrOkYvHD4s-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;RMSNorm&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="280" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="mQI0w_49PHNrOkYvHD4s-9" parent="mQI0w_49PHNrOkYvHD4s-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Masked Grouped-query-attn&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="200" y="560" as="geometry" />
+        <mxCell id="mQI0w_49PHNrOkYvHD4s-9" parent="mQI0w_49PHNrOkYvHD4s-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;MLA+DSA&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="280" y="560" as="geometry" />
         </mxCell>
         <mxCell id="mQI0w_49PHNrOkYvHD4s-10" parent="mQI0w_49PHNrOkYvHD4s-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;RMSNorm&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="280" y="400" as="geometry" />
@@ -492,12 +492,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="820" y="500" as="sourcePoint" />
             <mxPoint x="420" y="-160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mQI0w_49PHNrOkYvHD4s-30" edge="1" parent="mQI0w_49PHNrOkYvHD4s-1" source="mQI0w_49PHNrOkYvHD4s-9" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mQI0w_49PHNrOkYvHD4s-2" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="640" y="600" as="sourcePoint" />
-            <mxPoint x="680" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQI0w_49PHNrOkYvHD4s-31" parent="mQI0w_49PHNrOkYvHD4s-1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-45;strokeWidth=2;" value="" vertex="1">
