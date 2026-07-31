@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Llama-32-3B" id="9i-pakkIBMX7rmFdkday">
-    <mxGraphModel dx="1267" dy="2720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1044" dy="2447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
           <mxGeometry height="20" width="40" x="80" y="770" as="geometry" />
         </mxCell>
         <mxCell id="Ea35uhcBZUsjzn6c5GEG-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Linear&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="280" x="720" y="880" as="geometry" />
+          <mxGeometry height="40" width="120" x="800" y="880" as="geometry" />
         </mxCell>
         <mxCell id="Ea35uhcBZUsjzn6c5GEG-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Q&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="720" y="800" as="geometry" />
