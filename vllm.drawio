@@ -43,8 +43,8 @@
         <mxCell id="VNPfK7a-5hoTALQEMXhD-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="GPUModelRunner" vertex="1">
           <mxGeometry height="40" width="160" x="160" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="VNPfK7a-5hoTALQEMXhD-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;output&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="199" y="960" as="geometry" />
+        <mxCell id="VNPfK7a-5hoTALQEMXhD-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ModelRunnerOutput" vertex="1">
+          <mxGeometry height="40" width="160" x="160" y="960" as="geometry" />
         </mxCell>
         <mxCell id="VNPfK7a-5hoTALQEMXhD-40" edge="1" parent="1" source="VNPfK7a-5hoTALQEMXhD-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VNPfK7a-5hoTALQEMXhD-27" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
