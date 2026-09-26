@@ -199,19 +199,19 @@
           <mxGeometry height="160" width="160" x="1080" y="880" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-105" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;·&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="710" y="1305" as="geometry" />
+          <mxGeometry height="30" width="60" x="710" y="1345" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;=&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="990" y="1305" as="geometry" />
+          <mxGeometry height="30" width="60" x="990" y="1345" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$K\_Tile_{i}$$" vertex="1">
-          <mxGeometry height="160" width="80" x="600" y="1240" as="geometry" />
+          <mxGeometry height="160" width="80" x="600" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$K\_Tile_{i}$$" vertex="1">
-          <mxGeometry height="80" width="160" x="800" y="1280" as="geometry" />
+          <mxGeometry height="80" width="160" x="800" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$C\_Tile_{i}$$" vertex="1">
-          <mxGeometry height="160" width="160" x="1080" y="1240" as="geometry" />
+          <mxGeometry height="160" width="160" x="1080" y="1280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
