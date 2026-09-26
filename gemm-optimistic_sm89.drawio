@@ -41,28 +41,16 @@
           <mxGeometry height="30" width="60" x="990" y="945" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$warp_{0}$$" vertex="1">
-          <mxGeometry height="40" width="80" x="1360" y="880" as="geometry" />
+          <mxGeometry height="80" width="80" x="1360" y="880" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$warp_{1}$$" vertex="1">
-          <mxGeometry height="40" width="80" x="1440" y="880" as="geometry" />
+          <mxGeometry height="80" width="80" x="1440" y="880" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$warp_{2}$$" vertex="1">
-          <mxGeometry height="40" width="80" x="1360" y="920" as="geometry" />
+          <mxGeometry height="80" width="80" x="1360" y="960" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$warp_{3}$$" vertex="1">
-          <mxGeometry height="40" width="80" x="1440" y="920" as="geometry" />
-        </mxCell>
-        <mxCell id="Ak9giPmhk5pne4IM-Cv3-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$warp_{4}$$" vertex="1">
-          <mxGeometry height="40" width="80" x="1360" y="960" as="geometry" />
-        </mxCell>
-        <mxCell id="Ak9giPmhk5pne4IM-Cv3-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$warp_{5}$$" vertex="1">
-          <mxGeometry height="40" width="80" x="1440" y="960" as="geometry" />
-        </mxCell>
-        <mxCell id="Ak9giPmhk5pne4IM-Cv3-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$warp_{6}$$" vertex="1">
-          <mxGeometry height="40" width="80" x="1360" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="Ak9giPmhk5pne4IM-Cv3-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$warp_{7}$$" vertex="1">
-          <mxGeometry height="40" width="80" x="1440" y="1000" as="geometry" />
+          <mxGeometry height="80" width="80" x="1440" y="960" as="geometry" />
         </mxCell>
         <mxCell id="Ak9giPmhk5pne4IM-Cv3-22" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="160" width="160" x="1081" y="880" as="geometry" />
